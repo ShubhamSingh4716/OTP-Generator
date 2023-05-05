@@ -1,0 +1,13 @@
+div{
+    background-color: rgb(236, 171, 171);
+    border: 2px solid rgb(74, 7, 7);
+    width: 50%;
+    box-shadow: 12px 12px 5px black;
+    padding: 10px;
+    margin: auto;
+}
+
+h1{
+    border: 2px solid rgb(137, 67, 67);
+    background-color: brown;
+}
